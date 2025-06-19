@@ -70,5 +70,5 @@
 
 ### 🔗 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amaan-mca/)
-- ✉️ Email: youremail@example.com <!-- Replace this with your real email -->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-amaan-375b34307/)
+- ✉️ Email: mohammedamaanb@gmail.com
