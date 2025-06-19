@@ -6,8 +6,7 @@
 ### About Me
 
 - Final semester MCA student with a BCom in Computer Applications background.  
-- Passionate about **Machine Learning**, **Deep Learning**, and their **real-world applications**.  
-- Focused on problems like **retinal disease classification** and **glaucoma detection**.  
+- Passionate about **Machine Learning**, **Deep Learning**, and their **real-world applications**.    
 - Strong foundation in Python, ML/DL algorithms, neural networks, and model explainability.  
 - Interested in **building scalable, interpretable ML systems** — beyond basic pipelines.
 
