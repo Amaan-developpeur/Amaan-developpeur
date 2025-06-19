@@ -3,19 +3,19 @@
 
 ---
 
-### 🔍 About Me
+### About Me
 
-- 🎓 Final semester MCA student with a BCom in Computer Applications background.  
-- 🧠 Passionate about **Machine Learning**, **Deep Learning**, and their **real-world applications**.  
-- 👁️ Focused on problems like **retinal disease classification** and **glaucoma detection**.  
-- 🚀 Strong foundation in Python, ML/DL algorithms, neural networks, and model explainability.  
-- 🛠️ Interested in **building scalable, interpretable ML systems** — beyond basic pipelines.
+- Final semester MCA student with a BCom in Computer Applications background.  
+- Passionate about **Machine Learning**, **Deep Learning**, and their **real-world applications**.  
+- Focused on problems like **retinal disease classification** and **glaucoma detection**.  
+- Strong foundation in Python, ML/DL algorithms, neural networks, and model explainability.  
+- Interested in **building scalable, interpretable ML systems** — beyond basic pipelines.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
-#### 🧠 Core Languages & Libraries
+#### Core Languages & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -25,19 +25,19 @@
 
 ---
 
-#### 🤖 Machine Learning
+#### Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![SHAP](https://img.shields.io/badge/SHAP-EA4335?style=for-the-badge)
 
 ---
 
-#### 🧬 Deep Learning
+#### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
 ---
 
-#### 👁️ Computer Vision
+#### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 `Custom CNNs` · `ResNet` · `MobileNet` · `Inception` · `U-Net`
@@ -51,7 +51,7 @@
 
 ---
 
-#### 🧪 Currently Exploring
+#### Currently Exploring
 `Self-Supervised Learning (SSL)`
 
 ---
