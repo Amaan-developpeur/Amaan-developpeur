@@ -33,8 +33,12 @@
 #### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![Custom CNNs](https://img.shields.io/badge/Custom%20CNNs-323330?style=for-the-badge&logo=github)
+![ResNet](https://img.shields.io/badge/ResNet-8B0000?style=for-the-badge)
+![MobileNet](https://img.shields.io/badge/MobileNet-228B22?style=for-the-badge)
+![Inception](https://img.shields.io/badge/Inception-1E90FF?style=for-the-badge)
+![U-Net](https://img.shields.io/badge/U--Net-9400D3?style=for-the-badge)
 
-`Custom CNNs` · `ResNet` · `MobileNet` · `Inception` · `U-Net`
 
 ---
 
