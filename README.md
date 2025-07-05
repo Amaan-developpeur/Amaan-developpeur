@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Amaan</h1>
-<h3 align="center">Final-year MCA | ML & DL Practitioner | Computer Vision</h3>  
+<h3 align="center">Final-year MCA | ML & DL Practitioner | Computer Vision</h3>   
 
 --- 
 
