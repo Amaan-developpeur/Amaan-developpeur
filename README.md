@@ -41,6 +41,12 @@
 
 
 ---
+#### NLP & LLMs
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-blueviolet?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-Mistral-informational?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-local--first-lightgrey?style=for-the-badge)
+
 
 #### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
@@ -59,13 +65,13 @@
 ---
 
 #### Currently Exploring
-`Self-Supervised Learning (SSL)`
-
+- Retrieval-Augmented Generation (RAG) with local LLMs
+- LangChain & agent-based pipelines
 ---
 
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amaan-developpeur&show_icons=true&theme=default" />
