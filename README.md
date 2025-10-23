@@ -6,7 +6,7 @@
 <h2>About Me</h2>
 
 <ul>
-  <li>Passionate about <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and their <strong>real-world applications</strong>.</li>
+  <li>Passionate about <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>Backend, Data Engineering</strong>, and their <strong>real-world applications</strong>.</li>
   <li>Experienced in building end-to-end ML/DL pipelines with focus on <strong>model explainability</strong> and <strong>scalable deployment</strong>.</li>
   <li>Hands-on with <strong>FastAPI</strong> <strong>Django</strong>, <strong>Python</strong>, <strong>SQL</strong>, <strong>Docker</strong>, and AI systems for practical problem solving.</li>
   <li>Aspiring to bridge <strong>backend development</strong> and <strongAI/ML workflows</strong>, delivering <strong>production-ready, interpretable solutions</strong>.</li>
