@@ -1,14 +1,17 @@
 <h1 align="center">Hi, I'm Mohammed Amaan</h1>
-<h3 align="center">Final-year MCA | ML & DL Practitioner | Computer Vision</h3>    
+<h3 align="center">Python Developer | ML & DL Practitioner | Backend & AI Integration</h3>
 
----  
+---
 
-### About Me
+<h2>About Me</h2>
 
-- Final semester MCA student.  
-- Passionate about **Machine Learning**, **Deep Learning**, and their **real-world applications**.    
-- Strong foundation in Python, ML/DL algorithms, neural networks, and model explainability.  
-- Interested in **building scalable, interpretable ML systems** — beyond basic pipelines.
+<ul>
+  <li>Passionate about <strong>Python</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and their <strong>real-world applications</strong>.</li>
+  <li>Experienced in building end-to-end ML/DL pipelines with focus on <strong>model explainability</strong> and <strong>scalable deployment</strong>.</li>
+  <li>Hands-on with <strong>FastAPI</strong> <strong>Django</strong>, <strong>Python</strong>, <strong>SQL</strong>, <strong>Docker</strong>, and AI systems for practical problem solving.</li>
+  <li>Aspiring to bridge <strong>backend development</strong> and <strongAI/ML workflows</strong>, delivering <strong>production-ready, interpretable solutions</strong>.</li>
+</ul>
+
 
 ---
 
